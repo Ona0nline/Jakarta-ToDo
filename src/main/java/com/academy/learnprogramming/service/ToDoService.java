@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package com.academy.learnprogramming.service;
-import javax.transaction.Transactional;
+import jakarta.transaction.Transactional;
 import com.academy.learnprogramming.entity.ToDo;
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.PersistenceContext;
